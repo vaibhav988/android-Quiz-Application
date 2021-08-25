@@ -1,8 +1,9 @@
-![Screenshot_20210823-111018](https://user-images.githubusercontent.com/74806417/130774729-9d92b9d8-3b69-4013-bba8-fbf4fba146b3.jpg)
-![Screenshot_20210823-111052](https://user-images.githubusercontent.com/74806417/130774752-14cf0f98-7c7d-47f0-b9d1-8d3b2726e7e8.jpg)
-![Screenshot_20210823-111012 (1)](https://user-images.githubusercontent.com/74806417/130774773-033fa963-7a0c-49e6-b7a8-14bb7149c67f.jpg)
-![Screenshot_20210823-111000](https://user-images.githubusercontent.com/74806417/130774787-c9bcbb41-0241-416c-8d7c-99bc167d3848.jpg)
-![Screenshot_20210823-111040](https://user-images.githubusercontent.com/74806417/130774835-b3f6dc63-5d6d-4a7f-b631-185b2d3f7e48.jpg)
-![Screenshot_20210823-111007](https://user-images.githubusercontent.com/74806417/130774849-ae3b4ba2-1b36-4bfa-851e-b53471879187.jpg)
-![Screenshot_20210823-111012](https://user-images.githubusercontent.com/74806417/130774867-2b14f20f-a846-45f7-8519-7e535a0f1b9f.jpg)
+![Screenshot_20210823-111018](https://user-images.githubusercontent.com/74806417/130776808-806c5222-c66c-4204-a2bb-0bf254c8e4a5.jpg)
+![Screenshot_20210823-111012 (1)](https://user-images.githubusercontent.com/74806417/130776819-7404f378-0a38-4643-ba90-98172754184c.jpg)
+![Screenshot_20210823-111052](https://user-images.githubusercontent.com/74806417/130776841-8fd95a49-010b-4772-8ed9-1fe0fe1002c4.jpg)
+![Screenshot_20210823-111040](https://user-images.githubusercontent.com/74806417/130776848-166749ca-3456-4cb6-a62c-6d1cb908ac88.jpg)
+![Screenshot_20210823-111007](https://user-images.githubusercontent.com/74806417/130776852-98fbc01d-c5dd-45c2-be77-fad4b583ef9e.jpg)
+![Screenshot_20210823-111000](https://user-images.githubusercontent.com/74806417/130776857-1fa8afd1-ed0e-44b2-866a-0c4a20dd9890.jpg)
+
+
 # android-Quiz-Application
